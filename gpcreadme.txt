@@ -9,12 +9,12 @@
    IPR  claimants of gpc.Get the full documentations on the algorithms from them.
      Lot of algorithsm within the clipper have been changed.The main change being 
      to use only adjacent intersecting edges within a beam while rendering.To spped up
-     the code on large input the now classing bound generation and scan line generation 
+     the code on large input the now classical bound generation and scan line generation 
      steps are used instead of the %&& Manchester code.
      
-      As it it now it is for odd/even winding as fast as any other vatti clipper on the 
+      As of now it is only for odd/even winding.It is  as fast as any other vatti clipper on the 
       net.
       
-       For Murtas algorithm and notations contact ofo Dr. Alan murta is necesarry as the license
-       manager does Not have any worthwile help material.
+       For Murtas algorithm and notations contact of Dr. Alan murta is necesarry as the license
+       manager does Not have any worthwile help material.Search the net for him.
    
