@@ -12,6 +12,6 @@ In triangle processing the duplicate elimination step at EMX was in error.
  the huge monolith was factored is  easier for  manipulations and profiling.
  
   The resulting code works only for odd/even parity.But is as fast as the fastest vatti clippers.
- 
+ In the delphi code memory leaks are there.Will remove when resources  permit...
  Use and enjoy 
  
