@@ -15,3 +15,4 @@ In triangle processing the duplicate elimination step at EMX was in error.
  In the delphi code memory leaks are there.  Removed in next version...mail me for the code before i  post it here.
  Use and enjoy 
  
+   aNYONE INTERESTED in Murtas polygon clipping code ..for odd/even Contours shoudl contact Ignorant at maheshnaikDOTmumbaiATgmailDOTcom. You will get the current code in cpp.It is as fast as the fastest boolean clippers..totally phogat and a lot of bugs removed from Murtas original code.
